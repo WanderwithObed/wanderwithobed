@@ -6,10 +6,10 @@ An economist and data scientist exploring how **economic structures, labour mark
 
 ## 🔑 What I Do
 - 📊 **Data Analysis & Econometrics**: Turning complex datasets into actionable insights (R, Python, STATA, SQL, SPSS, Excel).  
-- 🌍 **Policy Impact Evaluation**: Measuring how government programs, subsidies, and interventions affect livelihoods and economic outcomes.  
-- 📈 **Business Intelligence & Dashboards**: Building analytics solutions with **Power BI, Python, and SQL** for decision-making.  
-- 🧑‍🏫 **Teaching & Mentorship**: Guiding students and junior analysts in statistical methods, research, and applied data science.  
-- 🚀 **Consulting**: Through **Russet Consulting**, I help businesses and organizations leverage **data, AI, and automation** for growth.  
+- 🌍 **Policy Impact Evaluation**: Evaluating government programs, subsidies, and interventions on livelihoods and economic outcomes.  
+- 📈 **Business Intelligence & Dashboards**: Building analytics solutions with **Power BI, Python, and SQL** for decision-making.
+- 🚀 **Consulting**: Through **Russet Consulting**, I help businesses and organizations leverage **data, AI, and automation** for growth.    
+- 🧑‍🏫 **Teaching & Mentorship**: Guiding students and junior analysts in applied data science.  
 
 ---
 
