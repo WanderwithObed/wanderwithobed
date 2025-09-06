@@ -1,5 +1,6 @@
 # 👋 Hey there, I'm so glad you're here!
 
+Welcome to my GitHub page!
 An economist and data scientist exploring how **economic structures, labour markets, and agricultural policies shape productivity, food security, and inclusive growth** in emerging economies.
 
 ---
