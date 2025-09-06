@@ -22,16 +22,15 @@ An economist and data scientist exploring how **economic structures, labour mark
 ---
 
 ## 📂 Featured Projects
-- 📊 [Power BI Dashboards](https://github.com/WanderwithObed/Power-BI-Dashboards) – Business performance, e-commerce growth, and retention analytics.  
-- 📈 [Tableau Projects](https://github.com/WanderwithObed/Tableau) – Interactive visualizations for economics and business insights.  
-- 🧑‍🌾 [R Projects](https://github.com/WanderwithObed/R) – Analysis of agricultural policy impacts and productivity trends.  
-- 💡 [Python Projects](https://github.com/WanderwithObed/Python) – Data analysis, automation, and research tools.  
+- [Power BI Dashboards](https://github.com/WanderwithObed/Power-BI-Dashboards) – Business performance, e-commerce growth, and retention analytics.  
+- [Tableau Projects](https://github.com/WanderwithObed/Tableau) – Interactive visualizations for economics and business insights.  
+- [R Projects](https://github.com/WanderwithObed/R) – Analysis of agricultural policy impacts and productivity trends.  
+- [Python Projects](https://github.com/WanderwithObed/Python) – Data analysis, automation, and research tools.  
 
 ---
 
 ## 🌍 Beyond Academia
-- Founder of **Russet Consulting** – helping businesses in Japan and Africa with **intelligence dashboards, AI solutions, and data automation**.  
-- Passionate about bridging **research and practice**, building **resilient food systems**, and applying **data for sustainable development**.  
+- Founder of **Russet Consulting** – helping businesses in Japan and Africa with **intelligence dashboards, AI solutions, and data automation**. 
 
 ---
 
