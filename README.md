@@ -36,10 +36,10 @@ An economist and data scientist exploring how **economic structures, labour mark
 ---
 
 ## 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/obed-tettey-103914198/)  
 - 📝 [Google Scholar / ResearchGate](#)  
 - 💼 [Portfolio / Website](#)  
-- ✉️ Reach me at: **your.email@example.com**  
+- ✉️ Reach me at: **obed.tettey@mofa.gov.gh**  
 
 ---
 
