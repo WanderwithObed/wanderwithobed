@@ -7,6 +7,7 @@ An economist and data scientist exploring how **economic structures, labour mark
 ---
 
 ## 🔑 What I Do
+Here, you'll find:
 - 📊 **Data Analysis & Econometrics**: Turning complex datasets into actionable insights (R, Python, STATA, SQL, SPSS, Excel).  
 - 🌍 **Policy Impact Evaluation**: Evaluating government programs, subsidies, and interventions on livelihoods and economic outcomes.  
 - 📈 **Business Intelligence & Dashboards**: Building analytics solutions with **Power BI, Python, and SQL** for decision-making.
