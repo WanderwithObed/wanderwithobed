@@ -16,7 +16,7 @@ An economist and data scientist exploring how **economic structures, labour mark
 ## 🛠️ Tech & Tools
 - **Programming & Data Science**: Python, R, SQL, STATA, SPSS, Excel  
 - **Data Visualization**: Power BI, matplotlib, seaborn  
-- **Survey & Research Tools**: Qualtrics, KoboToolbox, SurveyCTO  
+- **Survey & Research Tools**: KoboToolbox, Survey Solutions
 - **Version Control & Collaboration**: Git, GitHub  
 
 ---
