@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Obed
 
-🎓 **PhD Candidate in Economics | Data Scientist | Founder & CEO, Russet Consulting**  
-
-I am an economist by training and a data scientist in practice, working at the intersection of **labour, development, and agricultural economics**.  
-Currently pursuing my PhD at **Osaka University’s Graduate School of Economics**, my research explores how **economic structures, labour markets, and agricultural policies shape productivity, food security, and inclusive growth** in emerging economies.  
-
-💼 Previously, I worked as a **Senior Research Analyst** at Ghana’s Ministry of Food & Agriculture, where I led data-driven policy evaluations, national surveys, and agricultural impact assessments. I also bring experience as a teaching & research assistant, mentoring students in **statistics, econometrics, and actuarial applications**.  
+An economist and data scientist exploring how **economic structures, labour markets, and agricultural policies shape productivity, food security, and inclusive growth** in emerging economies.
 
 ---
 
