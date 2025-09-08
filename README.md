@@ -16,7 +16,7 @@ Here, you'll find:
 
 ---
 
-## 🛠Tech & Tools
+## Tech & Tools
 - **Programming & Data Science**: Python, R, SQL, STATA, SPSS, Excel  
 - **Data Visualization**: Power BI, matplotlib, seaborn  
 - **Survey & Research Tools**: KoboToolbox, Survey Solutions
