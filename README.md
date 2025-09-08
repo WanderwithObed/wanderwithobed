@@ -41,7 +41,7 @@ Here, you'll find:
 - [LinkedIn](https://www.linkedin.com/in/obed-tettey-103914198/)  
 - [Google Scholar / ResearchGate](#)  
 - [Portfolio / Website](#)  
-- ✉Reach me at: **obed.tettey@mofa.gov.gh**  
+- Reach me at: **obed.tettey@mofa.gov.gh**  
 
 ---
 
